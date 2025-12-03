@@ -6,7 +6,7 @@ I enjoy working with code, exploring random files, and turning messy ideas into 
 
 ## 🚀 My Projects
 - (https://samarth-mahalkar.github.io/My-Portfolio/)  
-- (https://samarth-mahalkar.github.io/Hotel-Management-Project/)
+- (https://samarth-mahalkar.github.io/STAFFLY/))
 
 ## 📂 Random File Highlight
 I like using random files as inspiration.  
