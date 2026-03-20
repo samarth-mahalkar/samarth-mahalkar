@@ -17,5 +17,5 @@ Here’s something pulled from a file I'm playing with:
 ## 🛠️ Tech
 - C  
 - Python  
-- HTML/CSS  
+- HTML/CSS/JS 
 - Git & GitHub  
