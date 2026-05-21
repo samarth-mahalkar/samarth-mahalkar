@@ -54,8 +54,7 @@ I'm a fullstack developer who loves building clean, thoughtful UIs 🌿, experim
 |--------|-------------|------|
 | 🧑‍💼 **STAFFLY** | Staff & employee management web app | [Live Demo](https://samarth-mahalkar.github.io/STAFFLY/) |
 | 🗂️ **My Portfolio** | Personal portfolio showcasing projects & skills | [Visit](https://samarth-mahalkar.github.io/My-Portfolio/) |
-| 📝 **NoteTaking App** | Clean, minimal note-taking web app in JavaScript | [Repo](https://github.com/samarth-mahalkar/NoteTaking-App) |
-| ⚙️ **CI/CD Pipeline** | Hands-on CI/CD exploration with GitHub Actions | [Repo](https://github.com/samarth-mahalkar/CICD-Pipeline-Project) |
+| 
 
 ---
 
